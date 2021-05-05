@@ -13,10 +13,10 @@
 ### NodeRED lokal installieren:
 
 1. NodeJS 12.X (recommended) installieren: https://nodejs.org/dist/v12.9.1/
-		○ Windows: https://nodejs.org/dist/v12.9.1/node-v12.9.1-x64.msi
+- Windows: https://nodejs.org/dist/v12.9.1/node-v12.9.1-x64.msi
 ![grafik](https://user-images.githubusercontent.com/83697765/117122005-a7178180-ad95-11eb-80be-2243e3027ea8.png)
 2. NodeRED installieren:
-		○ Windows: npm install -g --unsafe-perm node-red
+- Windows: npm install -g --unsafe-perm node-red
 3. NodeRED starten: node-red
 4. Hinweis: Windows Firewall Anfrage bestätigen
 5. http://localhost:1880/
