@@ -4,7 +4,7 @@
 
 ### tldr;
 
-1. NodeJS installieren
+1. NodeJS installieren (v 12.X.)
 2. npm install -g --unsafe-perm node-red
 3. http://localhost:1880/
 4. "Neuen Typ 'mqtt-broker' hinzufügen": Server "maqiatto.com", Port: 1883
