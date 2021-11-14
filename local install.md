@@ -8,7 +8,6 @@
 2. NodeRED installieren: <code>npm install -g node-red</code>
 3. goto: http://localhost:1880/
 4. Aedes Palette zu NodeRED hinzufügen (node-red-contrib-aedes)
-6. TODO
 
 ### NodeRED lokal installieren:
 
@@ -21,4 +20,11 @@
 6. Strg+C im Konsolenfenster, um NodeRED Server zu terminieren
 
 
-Troubleshooting und mehr Infos hier: https://nodered.org/docs/getting-started/local#running
+### Beispiel MQTT Roundtrip:
+
+![aedes-use](https://user-images.githubusercontent.com/83697765/141686407-ed59931c-173a-43c3-99a1-51bef08d559e.gif)
+
+### Troubleshooting:
+
+- NodeRED: https://nodered.org/docs/getting-started/local#running
+- Aedes node-red-contrib: https://github.com/martin-doyle/node-red-contrib-aedes
